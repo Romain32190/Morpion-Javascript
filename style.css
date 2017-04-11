@@ -1,0 +1,32 @@
+h1{
+text-align: center;
+}
+
+table
+{
+height:500px;
+width:500px;
+border-collapse: collapse;
+margin:auto;
+vertical-align:middle;
+}
+td
+{
+border-style:solid;
+width:33%;
+height:33%;
+}
+
+#retour
+{
+text-align:center;
+font-size:xx-large;
+}
+body
+{
+height:100%;
+}
+
+img{
+	width: 30%;
+}
