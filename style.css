@@ -15,18 +15,15 @@ td
 border-style:solid;
 width:33%;
 height:33%;
+background-color: white;
 }
 
-#retour
-{
-text-align:center;
-font-size:xx-large;
-}
 body
 {
 height:100%;
+background-color: #C0C0C0
 }
 
 img{
-	width: 30%;
+width: 30%;
 }
